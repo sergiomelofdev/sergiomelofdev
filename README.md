@@ -3,7 +3,7 @@
 - 📚 Sou atualmente um graduando de ciências da computação no 3º período da UNICAP
 - 🖥️ tenho conhecimento em JAVA, PYTHON, JAVASCRIPT, PHP, HTML e C
 - 🔭 Estou em busca de um estágio no horário da tarde ou noite
-- 📫 Contato: sergio.melofilho@hotmail.com
+- 📫 Contato: sergiomelofdev@hotmail.com
 - ⚡ curiosidade: Estou atualmente em um projeto solo de um jogo plataforma 2d feito em JAVA
 
 ##
